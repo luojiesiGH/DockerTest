@@ -1,2 +1,2 @@
 FROM busybox
-RUN echo "this should work"
+RUN echo "this work"
