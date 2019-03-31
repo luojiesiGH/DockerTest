@@ -1,2 +1,2 @@
-FROM debian
-RUN apt-get update && apt-get install -y cowsay fortune
+FROM busybox
+RUN echo "this should work"
